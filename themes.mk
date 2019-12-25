@@ -55,3 +55,6 @@ PRODUCT_PACKAGES += \
     TwitterBlue \
     XboxGreen \
     XiaomiOrange
+
+# Add theme specific overlays
+DEVICE_PACKAGE_OVERLAYS += vendor/themes/overlay/common
