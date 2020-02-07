@@ -5,7 +5,6 @@ PRODUCT_PACKAGES += \
 # Accents
 PRODUCT_PACKAGES += \
     Amber \
-    Black \
     Blue \
     BlueGrey \
     Brown \
@@ -30,8 +29,7 @@ PRODUCT_PACKAGES += \
     UserFive \
     UserSix \
     UserSeven \
-    Yellow \
-    White
+    Yellow
 
 # Brand Accents
 PRODUCT_PACKAGES += \
